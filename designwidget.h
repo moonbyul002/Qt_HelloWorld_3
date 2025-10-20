@@ -13,6 +13,7 @@ class DesignWidget : public QWidget
 {
     Q_OBJECT
 
+
 public:
     DesignWidget(QWidget *parent = nullptr);
     ~DesignWidget();
